@@ -3,7 +3,7 @@ body {
     padding: 0;
     padding-top: 70px;
     box-sizing: border-box;
-    background-image: url(../images/bg-yellow.jpg);
+    background-image: url(/images/bg-yellow.jpg);
     background-color: #D39B00;
     background-repeat: no-repeat;
     background-size: contain;
